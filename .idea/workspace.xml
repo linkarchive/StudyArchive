@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5034e383-210f-4e3d-a6f9-80b0c54d65b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CleanCode/주석.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +34,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CleanCode" />
       <recent name="$PROJECT_DIR$/CleanCode/1장.깨끗한코드" />
     </key>
   </component>
